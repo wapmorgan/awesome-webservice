@@ -10,6 +10,7 @@ A curated list of awesome web services.
 * [Music hostings](#music-hostings)
 * [Slides hostings](#slides-hostings)
 * [Translation services](#translation-services)
+* [Language learning](#language-lerning)
 
 ## Cloud storages
 *Online storages called cloud storages.*
@@ -57,4 +58,7 @@ A curated list of awesome web services.
 * [Google.Translate](https://translate.google.com) - A translation service by Google.
 * [Promt Translate](http://translate.ru) - A translation service by PROMT.
 
+## Language learning
+*Language learning courses.*
 
+*Additions are welcome.*
