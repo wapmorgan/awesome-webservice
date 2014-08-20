@@ -69,7 +69,7 @@ A curated list of awesome web services.
 ## Language learning
 *Language learning courses.*
 
-*Additions are welcome.*
+* [Duolingo](https://www.duolingo.com) - A language learning service.
 
 
 ## Music stores
