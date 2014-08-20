@@ -3,7 +3,10 @@ Web Services
 
 A curated list of awesome web services.
 
-* (Cloud storages)[#cloud-storages]
+* [Cloud storages](#cloud-storages)
+* [E-Mail](#e-mail)
+* [Video hostings](#video-hostings)
+* [Music hostings](#music-hostings)
 
 ## Cloud storages
 *Web storages called storages.*
@@ -20,3 +23,15 @@ A curated list of awesome web services.
 * [Gmail](https://gmail.com) - An e-mail service by Google.
 * [iCloud Mail](http://www.apple.com/icloud/) - An e-mail service by Apple.
 * [Yahoo! Mail)(http://mail.yahoo.com/) - An e-mail service by Yahoo.
+
+## Video hostings
+*Video hostings and streamers.*
+
+* [Youtube](https://youtube.com) - An one of the most usable video hostings.
+* [Vimeo](https://vimeo.com) - Another video hosting service.
+
+## Music hostings
+*Music hostings and streamers.*
+
+* [Soundcloud](https://soundcloud.com) - A music hosting service.
+* 
