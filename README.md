@@ -11,6 +11,8 @@ A curated list of awesome web services.
 * [Slides hostings](#slides-hostings)
 * [Translation services](#translation-services)
 * [Language learning](#language-lerning)
+* [Music stores](#music-stores)
+* [Maps](#maps)
 
 ## Cloud storages
 *Online storages called cloud storages.*
@@ -62,3 +64,19 @@ A curated list of awesome web services.
 *Language learning courses.*
 
 *Additions are welcome.*
+
+
+## Music stores
+
+* [Amazon Music](http://www.amazonmp3.com) - An online music store and music locker operated by Amazon.com.
+* [Google Play Music](https://play.google.com/store/music) - An online music store with over 22 million songs.
+* [iTunes Store](http://www.apple.com/itunes) - A online media store operated by Apple Inc.
+
+## Maps
+
+* [Google Maps](https://maps.google.com) - A free mapping service by Google.
+* [Yahoo! Maps](http://maps.yahoo.com) - A free mapping service by Yahoo.
+* [Bing Maps](http://www.bing.com/maps) - A mapping service.
+* [MapQuest](http://www.mapquest.com) - An American free mapping service.
+* [OpenStreetMap](https://www.openstreetmap.org) - A free collaborative mapping service.
+* [Here (Nokia)](http://here.com) - A mapping service.
