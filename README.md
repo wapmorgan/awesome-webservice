@@ -16,6 +16,8 @@ A curated list of awesome web services.
  * [Maps](#maps)
 * Development
  * [Code editors](#code-editors)
+ * [Code hostings](#code-hostings)
+ * [Backup services](#backup-services)
 
 # General
 ## Cloud storages
@@ -93,12 +95,13 @@ A curated list of awesome web services.
 * [Codeanywhere](https://codeanywhere.com) - An online code editor and IDE.
 * [Cloud9](https://c9.io) - An online code editor with Ubuntu workspace.
 
-## Code hosting
+## Code hostings
 *Place your code.*
 
 * [Github](https://github.com) - A git-based code hosting.
 * [Assembla](https://www.assembla.com) - A rich-featured code hosting.
 * [BitBucket](https://bitbucket.org) - A hg-based code hosting.
+* [Sourceforge](http://sourceforge.net) - A code hosting for open-source.
 
 
 ## Backup services
