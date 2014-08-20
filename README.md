@@ -8,6 +8,7 @@ A curated list of awesome web services.
 * [Search engines](#search-engines)
 * [Video hostings](#video-hostings)
 * [Music hostings](#music-hostings)
+* [Slides hostings](#slides-hostings)
 * [Translation services](#translation-services)
 
 ## Cloud storages
@@ -45,7 +46,15 @@ A curated list of awesome web services.
 * [Soundcloud](https://soundcloud.com) - A music hosting service.
 * [Vk.com music](https://vk.com/music) - A music hosting by Vk.com.
 
+## Slides hostings
+*Slides hostings and streamers.*
+
+* [Slideshare](http://www.slideshare.net) - A slides hosting service.
+
 ## Translation services
 *Services translate text between languages.*
 
 * [Google.Translate](https://translate.google.com) - A translation service by Google.
+* [Promt Translate](http://translate.ru) - A translation service by PROMT.
+
+
