@@ -11,7 +11,7 @@ A curated list of awesome web services.
  * [Music hostings](#music-hostings)
  * [Slides hostings](#slides-hostings)
  * [Translation services](#translation-services)
- * [Language learning](#language-lerning)
+ * [Language learning](#language-learning)
  * [Music stores](#music-stores)
  * [Maps](#maps)
 * Development
