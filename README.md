@@ -94,6 +94,10 @@ A curated list of awesome web services.
 
 * [Codeanywhere](https://codeanywhere.com) - An online code editor and IDE.
 * [Cloud9](https://c9.io) - An online code editor with Ubuntu workspace.
+* [Codepen](http://codepen.io/) - Front end development IDE
+* [Codenvy](https://codenvy.com/) - Another online docker-based code editor and IDE
+* [Ideone](https://ideone.com/) - Code editor and IDE that support 60+ languages
+* [Koding](https://koding.com) - Workspace with high public integration(hashtags, news feed, etc)
 
 ## Code hostings
 *Place your code.*
