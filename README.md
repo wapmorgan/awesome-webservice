@@ -17,6 +17,7 @@ A curated list of awesome web services.
 * Development
  * [Code editors](#code-editors)
  * [Code hostings](#code-hostings)
+ * [Continuous integration](#CI)
  * [Backup services](#backup-services)
 
 # General
@@ -107,6 +108,15 @@ A curated list of awesome web services.
 * [BitBucket](https://bitbucket.org) - A hg-based code hosting.
 * [Sourceforge](http://sourceforge.net) - A code hosting for open-source.
 
+## Continuous integration
+*Automate building, testing and deploying.*
+
+* [Travis CI](https://travis-ci.org/) - Automated builds and testing(free for open source)
+* [ShipIO](https://ship.io/) - CI for mobile apps
+* [Appveyor](http://www.appveyor.com/) - Another rich-feature CI
+* [CloudBees](https://www.cloudbees.com/) - for small teams and enterprises, alike
+* [Codeship](https://codeship.com/) - Testing and deployment service
+* [Drone.io](https://drone.io/) - Flexible scripting, browser testing CI system
 
 ## Backup services
 *Backup your code and sleep well.*
