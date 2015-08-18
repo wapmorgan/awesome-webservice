@@ -17,7 +17,7 @@ A curated list of awesome web services.
 * Development
  * [Code editors](#code-editors)
  * [Code hostings](#code-hostings)
- * [Continuous integration](#continuous-intergration)
+ * [Continuous integration](#continuous-integration)
  * [Backup services](#backup-services)
 
 # General
