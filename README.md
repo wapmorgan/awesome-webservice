@@ -42,6 +42,10 @@ A curated list of awesome web services.
 
 * [Google](https://www.google.com) - The most usable search engine in web.
 * [DuckDuckGo](https://duckduckgo.com) - A search engine that doesn't collect your search requests.
+* [Ixquick](https://ixquick.com/) - Private search engine
+* [Bing](https://www.bing.com/) - Microsoft's search engine
+* [Yahoo](http://search.yahoo.com/) - Yahoo's search engine(old one)
+* [Yandex](https://www.yandex.ua/) - Russian search service
 
 ## Video hostings
 *Video hostings and streamers.*
