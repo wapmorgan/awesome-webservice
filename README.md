@@ -37,6 +37,14 @@ A curated list of awesome web services.
 * [iCloud Mail](http://www.apple.com/icloud/) - An e-mail service by Apple.
 * [Yahoo! Mail](http://mail.yahoo.com/) - An e-mail service by Yahoo.
 
+### Fake E-Mail generators
+*Hide yourself from spam.*
+
+* [Emkei's Fake Mailer](https://emkei.cz/) - Tiny generator, bot protected
+* [Fake Mail Generator](www.fakemailgenerator.com/) - Modern and powerful fake mail service
+* [Anonymailer](http://www.anonymailer.net/) - Allow you to send anonymous emails
+* [Mailnator](https://mailinator.com/) - Generator with API support
+
 ## Search engines
 *Search engines know all the web.*
 
