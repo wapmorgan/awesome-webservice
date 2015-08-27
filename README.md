@@ -6,7 +6,7 @@ A curated list of awesome web services.
 * General
  * [Cloud storages](#cloud-storages)
  * [E-Mail](#e-mail)
-    * [Fake E-Mail generators](#Fake_E-Mail_generators)
+  * [Fake E-Mail generators](#fake_e-mail_generators)
  * [Search engines](#search-engines)
  * [Video hostings](#video-hostings)
  * [Music hostings](#music-hostings)
