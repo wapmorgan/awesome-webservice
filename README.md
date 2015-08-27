@@ -6,6 +6,7 @@ A curated list of awesome web services.
 * General
  * [Cloud storages](#cloud-storages)
  * [E-Mail](#e-mail)
+   * [Fake E-Mail generators](#fake-e-mail-generators)
  * [Search engines](#search-engines)
  * [Video hostings](#video-hostings)
  * [Music hostings](#music-hostings)
@@ -36,6 +37,14 @@ A curated list of awesome web services.
 * [Gmail](https://gmail.com) - An e-mail service by Google.
 * [iCloud Mail](http://www.apple.com/icloud/) - An e-mail service by Apple.
 * [Yahoo! Mail](http://mail.yahoo.com/) - An e-mail service by Yahoo.
+
+### Fake E-Mail generators
+*Hide yourself from spam.*
+
+* [Emkei's Fake Mailer](https://emkei.cz/) - Tiny generator, bot protected
+* [Fake Mail Generator](www.fakemailgenerator.com/) - Modern and powerful fake mail service
+* [Anonymailer](http://www.anonymailer.net/) - Allow you to send anonymous emails
+* [Mailnator](https://mailinator.com/) - Generator with API support
 
 ## Search engines
 *Search engines know all the web.*
