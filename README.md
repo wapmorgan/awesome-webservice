@@ -135,3 +135,12 @@ A curated list of awesome web services.
 *Backup your code and sleep well.*
 
 * [Backhub](https://backhub.co) - A github.com backup system.
+
+## Task management
+*Backup your code and sleep well.*
+
+* [Asana](https://asana.com) - easiest way for teams to track their work
+* [Jira](https://jira.com) - issue and project tracking software
+* [Trello](https://trello.com) - visual collaboration platform with kanban boards
+* [Taskade](https://taskade.com) - collaborative task lists and outlines
+
